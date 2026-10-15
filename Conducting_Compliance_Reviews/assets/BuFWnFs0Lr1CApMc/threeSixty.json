@@ -1,0 +1,27 @@
+{
+  "version": "3.105.35604.0",
+  "course_id": "6CDYPfEGfcs",
+  "title": "Untitled1",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Intro Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6CV2Q515fj9",
+      "title": "Difference Between Exclusion and Restriction (2 of 2)",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 820,
+    "height": 1870
+  },
+  "stage": {
+    "width": 800,
+    "height": 1850
+  }
+}
